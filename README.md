@@ -26,7 +26,11 @@ The focus is on **National** and **World** news categories from **2020–2023**.
 - `date` – Publication date  
 - `source` – News outlet  
 - `description` – Full article content  
-- `mapped_categories` – Standardized category labels  
+- `mapped_categories` – Standardized category labels
+
+### Dataset Link
+[Project Dataset Folder](https://drive.google.com/drive/folders/12OlJ4WeAHkNmUmqw44_TzNXxddaB5GVE?usp=sharing)
+
 
 ---
 
